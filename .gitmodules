@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mcmsector"]
+	path = mcmsector
+	url = https://github.com/cran/mcmsector
 [submodule "mcmsupply"]
 	path = mcmsupply
 	url = https://github.com/hannahcomiskey/mcmsupply
